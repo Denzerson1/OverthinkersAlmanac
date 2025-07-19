@@ -18,7 +18,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 w-full z-50">
       <div
-        className="max-w-7xl mx-auto rounded-lg px-6 py-3 flex items-center bg-gradient-to-r from-[white] to-[gray-100] text-white transition-opacity duration-300"
+        className="max-w-7xl mx-auto rounded-lg px-6 py-3 flex items-center bg-gradient-to-r from-black/10 to-black/10 text-white transition-opacity duration-300"
         style={{ opacity }}
       >
         <div className="flex items-center">
